@@ -77,7 +77,7 @@ In the terminal, change to the folder where the PEM key is stored using the comm
 
 #When the installation is finished, log in to the MySQL console by typing:
 
-`sudo apt install mysql-server`
+`sudo mysql`
 
 ![Mysql Console Status](./image/mysql-console-status.PNG)
 
