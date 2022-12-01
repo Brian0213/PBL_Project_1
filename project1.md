@@ -1,6 +1,6 @@
-## Documentation for Project 1: LAMP STACK IMPLEMENTATION 
+# Documentation for Project 1: LAMP STACK IMPLEMENTATION 
 
-**Preparing prerequisites**
+## Preparing prerequisites
 
 1. AWS account setup and Provisioning an Ubuntu Server Version 20.o4 LTS (HVM) (Free Tier Eligible).
 
