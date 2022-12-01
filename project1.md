@@ -32,13 +32,13 @@ In the terminal, change to the folder to where the PEM key is stored using the c
 
 `sudo apt install apache2`
 
-![Apache Install Status](./images/apache-install-status.PNG)
+![Apache Install Status](.\images\apache-install-status.PNG)
 
 - To verify that apache2 is running as a Service in our OS, run this command:
 
 `sudo systemctl status apache2`
 
-![Apache Systemctl Status](./images/apache-systemctl-status.PNG)
+![Apache Systemctl Status](.\images\apache-systemctl-status.PNG)
 
 - Edit Inbound Rule for Port 80: we have TCP port 22 open by default on our EC2 machine to access it via SSH, so we need to add a rule to EC2 configuration to open inbound connection through port 80.
 
